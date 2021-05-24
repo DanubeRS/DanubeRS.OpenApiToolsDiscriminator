@@ -1,0 +1,13 @@
+.openapi-generator-ignore
+apis/HomeApi.ts
+apis/index.ts
+index.ts
+models/Cat.ts
+models/CatAllOf.ts
+models/Dog.ts
+models/DogAllOf.ts
+models/Mouse.ts
+models/MouseAllOf.ts
+models/Pet.ts
+models/index.ts
+runtime.ts
